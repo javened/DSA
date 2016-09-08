@@ -56,28 +56,3 @@ public class linearSearch {
 		linearSearch.searching();
 	}	
 }
-/*
- * int i, size, search, array[];
-		Scanner input = new Scanner(System.in);
-		Random rand = new Random();
-		System.out.print("Enter Array size: ");
-		size = input.nextInt();
-		array = new int[size];
-		for(i = 0;i < size; i++){
-			array[i]=rand.nextInt(20);
-		}
-		System.out.print("Enter Number to Find: ");
-		search = input.nextInt();
-		for(i = 0; i< size; i++){
-			if (array[i] == search){
-				System.out.println("Found: "+ search +" is at array["+ i +"]" );
-				break;
-			}
-		}
-		if(i == size){
-			System.out.println("NOT FOUND: "+ search +" is not in the array.");
-		}
- * 
- * 
- * 
- * */
