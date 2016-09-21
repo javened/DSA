@@ -1,3 +1,14 @@
+/**
+ * Bubble sort is based on the idea of repeatedly comparing parts of adjacent elements then switching positions if they existi the wrong order.
+ * 
+ * @author [Javee Nedia]
+ * @link   [https://github.com/javened/DSA/blob/master/BinarySearch.java]
+ * @version[1.0]
+ * @since  [9/21/2016]
+ * 
+ * 
+ * */
+
 import java.util.Scanner;
 import java.util.Random;
 public class BinarySearch{
@@ -15,7 +26,10 @@ public class BinarySearch{
     }
   }
   for(int a =0; a < capacity;a++){
-  System.out.print(array[a]+ " ");
+    if(x%10 == 0){
+      System.out.println();
+    }
+    System.out.print(array[a]+ "\t");
   }
   }
  
