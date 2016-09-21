@@ -5,7 +5,7 @@
      - it finds an item in a collection by looking from the the beginning to end until a match is found 
  * 
  * @author [Javee Nedia]
- * @link   [https://github.com/javened/DSA/blob/master/BinarySearch.java]
+ * @link   [https://github.com/javened/DSA/edit/master/linearSearch.java]
  * @version[1.0]
  * @since  [9/21/2016]
  * 
