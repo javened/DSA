@@ -1,5 +1,8 @@
 /**
- * Bubble sort is based on the idea of repeatedly comparing parts of adjacent elements then switching positions if they existi the wrong order.
+ *    binary search
+    - is a divide and conquer algo 
+    - it compares the item with the middle element of a sorted(ascending) array.
+    -each step the size of array is reduced to half until one single element remain if a match is found
  * 
  * @author [Javee Nedia]
  * @link   [https://github.com/javened/DSA/blob/master/BinarySearch.java]
