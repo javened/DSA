@@ -2,7 +2,7 @@
  *        
  * 
  * @author [Javee Nedia]
- * @link   [https://github.com/javened/DSA/master/linearSearch.java]
+ * @link   [hhttps://github.com/javened/DSA/blob/master/totalMax.java]
  * @version[1.0]
  * @since  [9/21/2016]
  * 
