@@ -1,3 +1,13 @@
+/**
+ *        
+ * 
+ * @author [Javee Nedia]
+ * @link   [https://github.com/javened/DSA/master/linearSearch.java]
+ * @version[1.0]
+ * @since  [9/21/2016]
+ * 
+ * */
+
 import java.util.Scanner;
 import java.util.Random;
 
