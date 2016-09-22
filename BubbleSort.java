@@ -2,7 +2,7 @@
  * Bubble sort is based on the idea of repeatedly comparing parts of adjacent elements then switching positions if they existi the wrong order.
  * 
  * @author [Javee Nedia]
- * @link   [https://github.com/javened/DSA/edit/master/BubbleSort.java]
+ * @link   [https://github.com/javened/DSA/blob/master/BubbleSort.java]
  * @version[1.0]
  * @since  [9/21/2016]
  * 
